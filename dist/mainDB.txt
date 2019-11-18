@@ -1,0 +1,1 @@
+Amir,Male,addis,software,15120.0
